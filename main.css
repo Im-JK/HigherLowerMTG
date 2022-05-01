@@ -1,0 +1,62 @@
+body {
+    background-color: #171717;
+    color: #F3F3F3;
+    font-family: Verdana;
+    font-size: 18px;
+}
+h2 {
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    width: 50px;
+    font-size: 18px;
+    left: 280px;
+    top: -204px;
+}
+#card {
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    width: 10px;
+    font-size: 18px;
+}
+.wrapper {
+    padding: 10px;
+    margin: 10px;
+    height: 500px;
+}
+button {
+    height: 80px;
+    width: 50px;
+    font-size: 30px;
+    color: #F3F3F3;
+    border: none;
+}
+#higher {
+    background-color: #25a325;
+} 
+#lower {
+    background-color: #a31525;
+}
+.first {
+    left: 100px;
+}
+.second {
+    top: -100px;
+    left: 500px;
+}
+p.a {
+    margin: 3px;
+    top: 65px;
+    position: absolute;
+    font-size: 12px;
+}
+p {
+    position: absolute;
+}
+img {
+    position: absolute;
+    width: 210px;
+    height: 294px;
+    left: -90px;
+}
