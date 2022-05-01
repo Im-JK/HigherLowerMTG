@@ -9,7 +9,7 @@ const score_elem = document.getElementById("score");
 var previous_card;
 var current_card = {
 	prices : {
-		usd : "1.00"
+		usd : "0.25"
 	},
 	image_uris : {
 		normal : "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/9703d090-b415-48e2-8158-dd8fc57ecc50.jpg?1562926981"
